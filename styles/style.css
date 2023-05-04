@@ -51,6 +51,7 @@ article{
 .container_Services{
     display: flex;
     justify-content: center;
+   
 }
 #item1{
 background-color: lightblue;
